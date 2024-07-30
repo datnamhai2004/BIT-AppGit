@@ -1,0 +1,17 @@
+nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    transition: width 2s;
+    position: fixed;
+    width: 0;
+    position: relative;
+}
+nav ul {
+    text-decoration: none;
+    list-style: none;
+    
+}
+.show{
+    width: 250px;
+}
